@@ -11,7 +11,7 @@ Guys Its A Most Powerful dos Attack which can crash a simple servers. This Tool 
       pip install colorama 
       git clone https://github.com/DARK-x-121/DARK-DOWN.git
       cd DARK-DOWN
-      python Z_DD.py 
+      python Dark-Dos_v2.py
       ``` 
 
 Thanks for choosing our tool..
